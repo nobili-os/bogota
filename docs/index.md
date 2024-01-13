@@ -7,7 +7,7 @@ comments: false
 Bogota is the design language used for the Nobili software, which includes apps, the OS, etc.
 Bogota takes a modern approach to design.
 
-## Basics
+## Platforms
 <div class="grid cards" markdown>
 
 - :material-cellphone-text: __[Design apps for Nobili](nobili_apps)__ - the home of Bogota
