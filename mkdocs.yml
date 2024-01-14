@@ -2,3 +2,5 @@ site_name: Bogota UI Guidelines
 theme:
   name: material
   custom_dir: overrides
+markdown_extensions:
+  - md_in_html
